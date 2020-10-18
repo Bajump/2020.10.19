@@ -1,0 +1,6 @@
+body, div{margin: 0; padding: 0; }
+
+.back {width: 1920px; height: 1080px;  position: relative;}
+.text {font-family: 'Nanum Pen Script', cursive; text-align: center; color: #F4F4F4;
+   z-index: 9999; font-size: 3em; line-height: 140%; opacity: 0.7; }
+  .butterfly {position: absolute; opacity: 0.8; }
